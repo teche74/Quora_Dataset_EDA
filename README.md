@@ -1,2 +1,2 @@
 # Quora_Dataset_EDA
-Applied Basic NLP preprocessing and explore data through dstatical semantic and visual analysis.
+Applied Basic NLP preprocessing and explore data through statical, semantic and visual analysis.
